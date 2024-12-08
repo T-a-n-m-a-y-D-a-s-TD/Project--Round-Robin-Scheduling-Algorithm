@@ -25,9 +25,9 @@ Problem Statement
 Given the following processes with their burst times and arrival times:
 
     Process ID	   Burst Time (ms)	   Arrival Time (ms)
-       P1	           10	               0
-       P2	            5	               1
-       P3	            8	               2
+       P1	             10	                  0
+       P2	              5	                  1
+       P3	              8	                  2
        
 
 Time Quantum (TQ) = 3 ms
