@@ -1,6 +1,6 @@
 # Operating Systems (OS)
 
-# Project--Round-Robin-Simulation
+# Round-Robin-Simulation
 
 Overview
 This project implements the Round Robin Scheduling Algorithm for CPU scheduling. It simulates the scheduling of processes with specific burst times and arrival times, calculates their Turnaround Time (TAT) and Waiting Time (WT), and generates a Gantt chart to visualize the scheduling order. The application is built using Python and the Streamlit library.
