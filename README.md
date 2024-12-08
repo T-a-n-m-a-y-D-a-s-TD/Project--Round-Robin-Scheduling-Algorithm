@@ -1,3 +1,3 @@
-# Operating System (OS)
+# Operating Systems (OS)
 
 # Project--Round-Robin-Simulation
