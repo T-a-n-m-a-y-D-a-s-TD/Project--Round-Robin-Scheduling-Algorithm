@@ -24,10 +24,10 @@ This project simulates the Round Robin scheduling algorithm with user input and 
 Problem Statement
 Given the following processes with their burst times and arrival times:
 
-Process ID	Burst Time (ms)	Arrival Time (ms)
-P1	10	0
-P2	5	1
-P3	8	2
+    Process ID	Burst Time (ms)	Arrival Time (ms)
+       P1	           10	               0
+       P2	            5	               1
+       P3	            8	               2
 Time Quantum (TQ) = 3 ms
 The algorithm will simulate the scheduling, calculate the Turnaround Time (TAT) and Waiting Time (WT) for each process, and generate a Gantt chart to represent the scheduling order.
 
